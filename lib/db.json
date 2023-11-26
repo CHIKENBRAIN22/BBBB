@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Doe",
+      "prenom": "John",
+      "civilite": "Monsieur",
+      "specialiteDSI": true,
+      "matieres": ["java", "php"]
+    },
+    {
+      "id": 2,
+      "nom": "Smith",
+      "prenom": "Jane",
+      "civilite": "Madame",
+      "specialiteDSI": false,
+      "matieres": ["dart", "javascript"]
+    }
+
+  ]
+}
